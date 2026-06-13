@@ -6,18 +6,8 @@ This repository contains Object Oriented Programming (OOP) laboratory exercises 
 ---
 
 ## 📂 Repository Structure
-
-OOP-LAB
-│
-├── Week01/
-│   ├── Experiment01.cpp
-│   ├── Experiment02.cpp
-│   └── Experiment03.cpp
-│
-├── Week02/
-│   ├── Experiment01.cpp
-│   ├── Experiment02.cpp
-│   └── Experiment03.cpp
+- Week01: Contains Experiment 01, 02, 03
+- Week02: Contains Experiment 01, 02, 03
 
 ---
 
